@@ -101,4 +101,4 @@ function withdraw(account, amount) {
 ```
 (source: https://reactjs.org/docs/components-and-props.html)  
 The `sum` function is considered pure because the returned value does not affect the input. On the other hand,  
-`withdrawl` function changes the `account.total` hence is a impure function.
+`withdraw` function changes the `account.total` hence is an impure function.
