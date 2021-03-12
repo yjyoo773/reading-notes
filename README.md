@@ -3,5 +3,6 @@
 * [Code 301](#code-301---intermediate-software-development)
 * [Code 401](#code-401---advanced-software-development)
 ## Code 301 - Intermediate Software Development 👍
+  -[Class-01 Notes](class-01.md)
 ## Code 401 - Advanced Software Development
 
