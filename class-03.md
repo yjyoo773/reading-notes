@@ -119,3 +119,8 @@ const objectThree = {...objectOne, ...objectTwo, laugh: "ðŸ˜‚"} // { hello: "ðŸ¤
 ### Convert NodeList into Array
 
 ### Adding to State in React
+
+source:
+- https://reactjs.org/docs/lifting-state-up.html
+- https://reactjs.org/docs/lists-and-keys.html
+- https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
