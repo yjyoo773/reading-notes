@@ -85,3 +85,5 @@ setTimeout(function() {
   ReactDOM.render(<input value={null} />, mountNode); // when value is null creates short delay
 }, 1000);
 ```
+
+source: https://reactjs.org/docs/forms.html
