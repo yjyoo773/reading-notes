@@ -8,6 +8,7 @@ https://yjyoo773.github.io/reading-notes/
   - [Class-02 Notes](class-02.md)
   - [Class-03 Notes](class-03.md)
   - [Class-04 Notes](class-04.md)
+  - [Class-05 Notes](class-05.md)
 
 ## Code 401 - Advanced Software Development
 
