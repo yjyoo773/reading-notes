@@ -1,5 +1,6 @@
 # Reading Notes
-*[Reading notes for Code Fellows]* (https://yjyoo773.github.io/reading-notes/) 
+*[Reading notes for Code Fellows]*   
+[Notes](https://yjyoo773.github.io/reading-notes/) 
 * [Code 301](#code-301---intermediate-software-development)
 * [Code 401](#code-401---advanced-software-development)
 ## Code 301 - Intermediate Software Development 👍
