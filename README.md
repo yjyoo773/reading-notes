@@ -16,6 +16,7 @@
   - [Class-10 Notes](class-10.md)
   - [Class-11 Notes](class-11.md)
   - [Class-12 Notes](class-12.md)
+  - [Class-13 Notes](class-13.md)
 
 ## Code 401 - Advanced Software Development
 
