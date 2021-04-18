@@ -159,7 +159,7 @@ rendering without changing the rest of the output.
 We can conditionally render elements using `condition ? true : false`. Meaning based on the condition either true or false is returned.
 
 ### Preventing Component from Rendering
-In cases we want to hide the component even when rendered by another component ===> return `null` to prevent it from showing.
+In cases we want to hide the component even when rendered by another component ===> return `null` to prevent it from showing.  
 source:
 - https://reactjs.org/docs/state-and-lifecycle.html
 - https://www.geeksforgeeks.org/reactjs-state-react/#:~:text=What%20is%20State%3F,the%20lifetime%20of%20the%20component.
