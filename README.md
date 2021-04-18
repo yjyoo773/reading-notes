@@ -20,3 +20,4 @@
 
 ## Code 401 - Advanced Software Development
 - [Class-00 Notes](class_00_401.md)
+- [Class-01-Notes](class_01_401.md)
