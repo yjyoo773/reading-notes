@@ -22,3 +22,8 @@
 - [Class-00 Notes](class_00_401.md)
 - [Class-01-Notes](class_01_401.md)
 - [Class-02-Notes](class_02_401.md)
+- [Class-03-Notes](class_03_401.md)
+- [Class-04-Notes](class_04_401.md)
+- [Class-05-Notes](linkedlist.md)
+- [Class-06-Notes](401class-06.md)
+- [Class-07=Notes](class_07_401.md)
