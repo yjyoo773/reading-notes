@@ -26,4 +26,6 @@
 - [Class-04-Notes](class_04_401.md)
 - [Class-05-Notes](linkedlist.md)
 - [Class-06-Notes](401class-06.md)
-- [Class-07=Notes](class_07_401.md)
+- [Class-07-Notes](class_07_401.md)
+- [Class-08-Notes](class_08_401.md)
+
